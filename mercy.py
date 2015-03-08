@@ -9,7 +9,7 @@
 # Print N lines. Every line should contain 'Hello Algospot!'(quotation marks for
 # clarity) and nothing else.
 
-n = int(input("How many lines do you want to print?"))
+n = int(input())
 
 for i in range(n):
     print ("Hello Algospot!")
